@@ -2,7 +2,7 @@
 
 <!-- 🌟 Banner Section -->
 <p align="center">
-  <img src="https://github.com/Priyanshi43/Priyanshi43/blob/main/image.png" alt="Priyanshi Tripathi GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Priyanshi43/Priyanshi43/main/Priyanshi-Banner.png" alt="Priyanshi Tripathi GitHub Banner" width="100%" />
 </p>
 
 <!-- ✨ Typing Animation -->
